@@ -1,0 +1,10 @@
+Patente del vehículo: ASDQ-23
+Edad del cliente: 231
+Fecha de venta: 100230310
+Nombre de venta: Venta2
+
+Patente del vehículo: ABBA-23
+Edad del cliente: 40
+Fecha de venta: 100230310
+Nombre de venta: Venta2
+
